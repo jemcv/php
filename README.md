@@ -2,6 +2,8 @@
 
 A simple PHP application for user registration following MVC-like architecture.
 
+https://github.com/user-attachments/assets/89e4c705-a7de-4f15-8977-d2d7eb7c0ad8
+
 ### Prerequisites
 
 - XAMPP (or similar PHP development environment)
